@@ -34,9 +34,6 @@ education:
     - course: B.Sc in Mathematics
       institution: Sharif University of Technology
       year: 2017
-    - course: B.Sc in Civil Engineering
-      institution: Sharif University of Technology
-      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
